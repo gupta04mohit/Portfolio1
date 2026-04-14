@@ -1,8 +1,20 @@
 {
   "name": "rajesh-portfolio",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "This repository contains the open source version of my porfolio website.\r Do check it out!",
+  "homepage": "https://github.com/raxx21/rajesh-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/raxx21/rajesh-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raxx21/rajesh-portfolio.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc -b && vite build",
