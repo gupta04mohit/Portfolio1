@@ -1,15 +1,15 @@
 {
-  "name": "rajesh-portfolio",
+  "name": "mohit-portfolio",
   "version": "0.0.0",
   "private": true,
   "description": "This repository contains the open source version of my porfolio website.\r Do check it out!",
-  "homepage": "https://github.com/raxx21/rajesh-portfolio#readme",
+  "homepage": "https://github.com/gupta04mohit/Portfolio1#readme",
   "bugs": {
-    "url": "https://github.com/raxx21/rajesh-portfolio/issues"
+    "url": "https://github.com/gupta04mohit/Portfolio1/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raxx21/rajesh-portfolio.git"
+    "url": "git+https://github.com/gupta04mohit/Portfolio1.git"
   },
   "license": "ISC",
   "author": "",
